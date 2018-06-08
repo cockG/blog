@@ -1,0 +1,19 @@
+{
+    "name": "paypal-test",
+    "version": "1.0.0",
+    "description": "paypal test",
+    "private": true,
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [
+        "paypal test"
+    ],
+    "author": "Gong",
+    "license": "Apache-2.0",
+    "dependencies": {
+        "paypal-rest-sdk": "1.8.1",
+        "express": "4.x"
+    }
+}
